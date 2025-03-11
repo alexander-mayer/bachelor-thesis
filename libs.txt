@@ -1,0 +1,10 @@
+numpy
+jupyterlab
+xarray netCDF4 matplotlib seaborn nc-time-axis scipy
+pytorch torchvision torchaudio
+cdapi
+cartopy
+torchinfo
+scores
+pip install git+https://github.com/cvanelteren/proplot.git@v0.9.91
+pysteps

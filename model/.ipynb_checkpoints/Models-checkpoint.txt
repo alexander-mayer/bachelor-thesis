@@ -1,0 +1,3 @@
+Model H: 200 epochs, MSE
+Model J: 200 epochs, SpatiotemporalPrecipitationLoss(weight_factor=2, threshold=1)
+Model K: 200 epochs, LogCoshLossOld
